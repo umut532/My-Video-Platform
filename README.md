@@ -1,4 +1,4 @@
-# My-Video-Platform
+# MyVideoPlatform
 
 a video viewing platform like today's movie and TV series viewing platforms
 
